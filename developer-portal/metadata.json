@@ -1,0 +1,12 @@
+{
+  "name": "OPOS Business Visa",
+  "symbol": "BUS",
+  "description": "Token with immutable ownership and metadata.",
+  "image": "https://raw.githubusercontent.com/pubkeyapp/tokengator-assets/main/developer-portal/image.png",
+  "attributes": [
+    {
+      "trait_type": "Preset",
+      "value": "Business Visa"
+    }
+  ]
+}
