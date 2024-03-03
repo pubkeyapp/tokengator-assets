@@ -1,0 +1,12 @@
+{
+    "name": "OPOS Pre-Order",
+    "symbol": "PRE",
+    "description": "Token with permanent delegate and Non-Transferable extensions",
+    "image": "https://raw.githubusercontent.com/pubkeyapp/tokengator-assets/main/saga-phone/image.png",
+    "attributes": [
+      {
+        "trait_type": "Preset",
+        "value": "Pre-Order"
+      }
+    ]
+  }
